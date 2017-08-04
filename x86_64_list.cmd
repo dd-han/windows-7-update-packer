@@ -15,4 +15,6 @@ dism /image:%1  /add-package /packagepath:windows6.1-kb4014504-x64_8ff7cfc3a121b
 
 rem dism /image:%1  /add-package /packagepath:windows6.1-kb4019264-x64_c2d1cef74d6cb2278e3b2234c124b207d0d0540f.msu
 
-dism /image:%1  /add-package /packagepath:windows6.1-kb4022719-x64_127dc7228b2d9278db81121a92471feda59461bb.msu
+dism /image:%1  /add-package /packagepath:windows6.1-kb4025341-x64_e2518cc83b86902d20302f114a7ebe4249efbe9c.msu
+
+exit
